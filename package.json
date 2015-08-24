@@ -1,0 +1,25 @@
+{
+  "name": "starwars-ns",
+  "version": "1.0.0",
+  "description": "ticky",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhentian-wan/starwars-ns.git"
+  },
+  "keywords": [
+    "ticky"
+  ],
+  "author": "Zhentian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhentian-wan/starwars-ns/issues"
+  },
+  "homepage": "https://github.com/zhentian-wan/starwars-ns",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
